@@ -1,0 +1,2 @@
+C:\Developer\C++\Shawarma.is\Release\Shawarma.is.exe
+C:\Developer\C++\Shawarma.is\Shawarma.is-2022\Release\Shawarma.is.exe

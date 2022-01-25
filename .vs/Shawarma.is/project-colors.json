@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77bcbedb-80e0-4715-b7f2-f6059e6def5c": {
+      "ProjectGuid": "77bcbedb-80e0-4715-b7f2-f6059e6def5c",
+      "DisplayName": "Shawarma.is",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

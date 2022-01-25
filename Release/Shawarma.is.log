@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  CharactersMenu.cpp
+  EraseIf.cpp
+  Game.cpp
+  GameState.cpp
+C:\Developer\C++\Shawarma.is\Shawarma.is-2022\src\GameState.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+  GraphicsSettings.cpp
+  Gui.cpp
+  Main.cpp
+  MainMenuState.cpp
+  PauseMenu.cpp
+  Player.cpp
+  SettingsState.cpp
+  Shawarma.cpp
+  State.cpp
+  Tile.cpp
+  TileMap.cpp
+  Generating code
+  1603 of 1622 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Shawarma.is.vcxproj -> C:\Developer\C++\Shawarma.is\Shawarma.is-2022\Release\Shawarma.is.exe
